@@ -1,4 +1,4 @@
-# React SSR - Node | Carousel de publicidad con "Live reload"
+# React SSR - Node | Carousel viewer con "Live reload"
 
 Aplicación web basada en servidor, configurada con Vite, utilizando la plantilla de React + Node.
 
@@ -77,4 +77,5 @@ A partir de aquí los pasos a seguir son los siguientes:
 ```
 
 - En caso de que sea necesario, cambiar el usuario predeterminado del sitio web a "LocalSystem"
+
 
